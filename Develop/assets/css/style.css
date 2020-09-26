@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Apply styles to <header> */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +25,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Header/navigation styles start here */
 
 header nav {
     padding-top: 15px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/*Hero styles start here*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +80,10 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/*Hero styles end here*/
+
+/*Icon styling starts here */
 
 .benefits {
     margin-right: 20px;
@@ -187,6 +197,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*Footer styling starts here */
 
 footer {
     padding: 30px;
